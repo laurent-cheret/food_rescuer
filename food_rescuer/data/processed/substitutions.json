@@ -1,0 +1,519 @@
+{
+  "butter": [
+    {
+      "substitute": "olive oil",
+      "ratio": 0.75,
+      "notes": "Works well in savory dishes"
+    },
+    {
+      "substitute": "coconut oil",
+      "ratio": 1.0,
+      "notes": "Good for baking"
+    },
+    {
+      "substitute": "margarine",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "vegetable oil",
+      "ratio": 0.75,
+      "notes": "Good for baking"
+    }
+  ],
+  "olive oil": [
+    {
+      "substitute": "vegetable oil",
+      "ratio": 1.0,
+      "notes": "Neutral flavor"
+    },
+    {
+      "substitute": "coconut oil",
+      "ratio": 1.0,
+      "notes": "Will add coconut flavor"
+    },
+    {
+      "substitute": "butter",
+      "ratio": 1.33,
+      "notes": "Use 1\u2153 the amount"
+    }
+  ],
+  "vegetable oil": [
+    {
+      "substitute": "olive oil",
+      "ratio": 1.0,
+      "notes": "Will add olive flavor"
+    },
+    {
+      "substitute": "coconut oil",
+      "ratio": 1.0,
+      "notes": "Will add coconut flavor"
+    },
+    {
+      "substitute": "butter",
+      "ratio": 1.33,
+      "notes": "Use 1\u2153 the amount"
+    }
+  ],
+  "milk": [
+    {
+      "substitute": "almond milk",
+      "ratio": 1.0,
+      "notes": "Good for most recipes"
+    },
+    {
+      "substitute": "soy milk",
+      "ratio": 1.0,
+      "notes": "Good protein content"
+    },
+    {
+      "substitute": "oat milk",
+      "ratio": 1.0,
+      "notes": "Creamy texture, good for baking"
+    },
+    {
+      "substitute": "yogurt",
+      "ratio": 0.75,
+      "notes": "Thin with water if needed"
+    },
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "notes": "Only use in recipes where milk is not a key ingredient"
+    }
+  ],
+  "heavy cream": [
+    {
+      "substitute": "milk",
+      "ratio": 1.0,
+      "notes": "Add 2 tbsp butter per cup of milk"
+    },
+    {
+      "substitute": "evaporated milk",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "yogurt",
+      "ratio": 1.0,
+      "notes": "Good for baking and sauces"
+    },
+    {
+      "substitute": "coconut cream",
+      "ratio": 1.0,
+      "notes": "Good for desserts and curries"
+    }
+  ],
+  "sour cream": [
+    {
+      "substitute": "yogurt",
+      "ratio": 1.0,
+      "notes": "Plain, full-fat works best"
+    },
+    {
+      "substitute": "buttermilk",
+      "ratio": 1.0,
+      "notes": "For baking"
+    },
+    {
+      "substitute": "cream cheese",
+      "ratio": 1.0,
+      "notes": "Soften and add a bit of milk"
+    }
+  ],
+  "yogurt": [
+    {
+      "substitute": "sour cream",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "buttermilk",
+      "ratio": 1.0,
+      "notes": "For baking"
+    },
+    {
+      "substitute": "cottage cheese",
+      "ratio": 1.0,
+      "notes": "Blend until smooth first"
+    }
+  ],
+  "cream cheese": [
+    {
+      "substitute": "mascarpone",
+      "ratio": 1.0,
+      "notes": "Slightly sweeter"
+    },
+    {
+      "substitute": "ricotta",
+      "ratio": 1.0,
+      "notes": "Blend with a bit of cream for smoothness"
+    },
+    {
+      "substitute": "cottage cheese",
+      "ratio": 1.0,
+      "notes": "Blend until smooth"
+    }
+  ],
+  "eggs": [
+    {
+      "substitute": "applesauce",
+      "ratio": 0.25,
+      "unit": "cup",
+      "notes": "Use 1/4 cup per egg for baking"
+    },
+    {
+      "substitute": "mashed banana",
+      "ratio": 0.5,
+      "unit": "medium",
+      "notes": "1/2 banana per egg for baking"
+    },
+    {
+      "substitute": "yogurt",
+      "ratio": 0.25,
+      "unit": "cup",
+      "notes": "1/4 cup per egg for baking"
+    },
+    {
+      "substitute": "flax seeds",
+      "ratio": 1.0,
+      "unit": "tbsp",
+      "notes": "Mix 1 tbsp ground flax with 3 tbsp water per egg"
+    }
+  ],
+  "sugar": [
+    {
+      "substitute": "brown sugar",
+      "ratio": 1.0,
+      "notes": "Will add molasses flavor"
+    },
+    {
+      "substitute": "honey",
+      "ratio": 0.75,
+      "notes": "Reduce other liquids by 1/4 cup per cup of honey"
+    },
+    {
+      "substitute": "maple syrup",
+      "ratio": 0.75,
+      "notes": "Reduce other liquids by 3 tbsp per cup"
+    }
+  ],
+  "brown sugar": [
+    {
+      "substitute": "white sugar",
+      "ratio": 1.0,
+      "notes": "Add 1 tbsp molasses per cup"
+    },
+    {
+      "substitute": "honey",
+      "ratio": 0.75,
+      "notes": "Reduce other liquids by 1/4 cup per cup of honey"
+    },
+    {
+      "substitute": "maple syrup",
+      "ratio": 0.75,
+      "notes": "Reduce other liquids by 3 tbsp per cup"
+    }
+  ],
+  "honey": [
+    {
+      "substitute": "maple syrup",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "agave nectar",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "sugar",
+      "ratio": 1.25,
+      "notes": "Add 1/4 cup liquid per cup of sugar"
+    }
+  ],
+  "all-purpose flour": [
+    {
+      "substitute": "bread flour",
+      "ratio": 1.0,
+      "notes": "Will result in chewier texture"
+    },
+    {
+      "substitute": "cake flour",
+      "ratio": 1.0,
+      "notes": "Will result in lighter texture"
+    },
+    {
+      "substitute": "whole wheat flour",
+      "ratio": 0.75,
+      "notes": "Use 3/4 cup whole wheat + 1/4 cup white per cup"
+    }
+  ],
+  "flour": [
+    {
+      "substitute": "cornstarch",
+      "ratio": 0.5,
+      "notes": "For thickening only"
+    },
+    {
+      "substitute": "almond flour",
+      "ratio": 1.0,
+      "notes": "For gluten-free baking"
+    },
+    {
+      "substitute": "oat flour",
+      "ratio": 1.0,
+      "notes": "For gluten-free baking"
+    }
+  ],
+  "cornstarch": [
+    {
+      "substitute": "flour",
+      "ratio": 2.0,
+      "notes": "For thickening, use twice as much"
+    },
+    {
+      "substitute": "arrowroot",
+      "ratio": 1.0,
+      "notes": "Direct substitute for thickening"
+    },
+    {
+      "substitute": "potato starch",
+      "ratio": 1.0,
+      "notes": "Direct substitute for thickening"
+    }
+  ],
+  "baking powder": [
+    {
+      "substitute": "baking soda",
+      "ratio": 0.25,
+      "notes": "Use 1/4 tsp baking soda + 1/2 tsp cream of tartar"
+    },
+    {
+      "substitute": "yeast",
+      "ratio": 0.5,
+      "notes": "Only for certain recipes, changes texture significantly"
+    }
+  ],
+  "baking soda": [
+    {
+      "substitute": "baking powder",
+      "ratio": 3.0,
+      "notes": "Use 3 times as much, omit or reduce acidic ingredients"
+    }
+  ],
+  "yeast": [
+    {
+      "substitute": "baking powder",
+      "ratio": 1.0,
+      "unit": "tsp",
+      "notes": "Use 1 tsp per 1/4 oz yeast, texture will be different"
+    }
+  ],
+  "vinegar": [
+    {
+      "substitute": "lemon juice",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "lime juice",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "white wine",
+      "ratio": 1.0,
+      "notes": "For cooking"
+    }
+  ],
+  "lemon juice": [
+    {
+      "substitute": "vinegar",
+      "ratio": 0.5,
+      "notes": "Use half as much"
+    },
+    {
+      "substitute": "lime juice",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "orange juice",
+      "ratio": 1.0,
+      "notes": "Will be sweeter"
+    }
+  ],
+  "fresh herbs": [
+    {
+      "substitute": "dried herbs",
+      "ratio": 0.33,
+      "notes": "Use 1/3 the amount of dried herbs"
+    }
+  ],
+  "dried herbs": [
+    {
+      "substitute": "fresh herbs",
+      "ratio": 3.0,
+      "notes": "Use 3 times as much fresh herbs"
+    }
+  ],
+  "onion": [
+    {
+      "substitute": "shallots",
+      "ratio": 1.0,
+      "notes": "More delicate flavor"
+    },
+    {
+      "substitute": "leeks",
+      "ratio": 1.0,
+      "notes": "Milder flavor"
+    },
+    {
+      "substitute": "green onions",
+      "ratio": 1.0,
+      "notes": "Milder flavor"
+    },
+    {
+      "substitute": "onion powder",
+      "ratio": 1.0,
+      "unit": "tbsp",
+      "notes": "1 tbsp per medium onion"
+    }
+  ],
+  "garlic": [
+    {
+      "substitute": "garlic powder",
+      "ratio": 0.125,
+      "unit": "tsp",
+      "notes": "1/8 tsp per clove"
+    },
+    {
+      "substitute": "shallots",
+      "ratio": 1.0,
+      "notes": "Milder flavor"
+    },
+    {
+      "substitute": "onion",
+      "ratio": 1.0,
+      "notes": "Different flavor but similar function"
+    }
+  ],
+  "tomatoes": [
+    {
+      "substitute": "canned tomatoes",
+      "ratio": 1.0,
+      "notes": "Drain if fresh is called for"
+    },
+    {
+      "substitute": "tomato paste",
+      "ratio": 0.25,
+      "notes": "Use 1/4 the amount + water"
+    },
+    {
+      "substitute": "bell peppers",
+      "ratio": 1.0,
+      "notes": "For texture in salads"
+    }
+  ],
+  "chicken broth": [
+    {
+      "substitute": "vegetable broth",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "beef broth",
+      "ratio": 1.0,
+      "notes": "Stronger flavor"
+    },
+    {
+      "substitute": "bouillon cube",
+      "ratio": 1.0,
+      "unit": "cube",
+      "notes": "1 cube per cup of water"
+    }
+  ],
+  "beef broth": [
+    {
+      "substitute": "vegetable broth",
+      "ratio": 1.0,
+      "notes": "Direct substitute"
+    },
+    {
+      "substitute": "chicken broth",
+      "ratio": 1.0,
+      "notes": "Milder flavor"
+    },
+    {
+      "substitute": "bouillon cube",
+      "ratio": 1.0,
+      "unit": "cube",
+      "notes": "1 cube per cup of water"
+    }
+  ],
+  "vegetable broth": [
+    {
+      "substitute": "chicken broth",
+      "ratio": 1.0,
+      "notes": "Not vegetarian"
+    },
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "notes": "Add extra herbs and spices"
+    },
+    {
+      "substitute": "bouillon cube",
+      "ratio": 1.0,
+      "unit": "cube",
+      "notes": "1 cube per cup of water"
+    }
+  ],
+  "white wine": [
+    {
+      "substitute": "chicken broth",
+      "ratio": 1.0,
+      "notes": "For savory dishes"
+    },
+    {
+      "substitute": "white grape juice",
+      "ratio": 1.0,
+      "notes": "Add 1 tbsp vinegar per cup"
+    },
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "notes": "Add 1 tbsp vinegar or lemon juice per cup"
+    }
+  ],
+  "red wine": [
+    {
+      "substitute": "beef broth",
+      "ratio": 1.0,
+      "notes": "For savory dishes"
+    },
+    {
+      "substitute": "grape juice",
+      "ratio": 1.0,
+      "notes": "Add 1 tbsp vinegar per cup"
+    },
+    {
+      "substitute": "cranberry juice",
+      "ratio": 1.0,
+      "notes": "Add 1 tbsp vinegar per cup"
+    }
+  ],
+  "chocolate": [
+    {
+      "substitute": "carob",
+      "ratio": 1.0,
+      "notes": "Good vegan substitute, slightly different flavor"
+    },
+    {
+      "substitute": "carob",
+      "ratio": 1.0,
+      "notes": "Good vegan substitute, slightly different flavor"
+    }
+  ]
+}

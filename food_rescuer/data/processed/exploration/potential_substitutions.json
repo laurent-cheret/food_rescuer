@@ -1,0 +1,1490 @@
+[
+  {
+    "ingredient1": "eggs",
+    "ingredient2": "egg",
+    "count": 10,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "egg",
+    "ingredient2": "eggs",
+    "count": 10,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "figs",
+    "ingredient2": "orange",
+    "count": 8,
+    "contexts": []
+  },
+  {
+    "ingredient1": "figs",
+    "ingredient2": "grapefruit",
+    "count": 8,
+    "contexts": []
+  },
+  {
+    "ingredient1": "orange",
+    "ingredient2": "figs",
+    "count": 8,
+    "contexts": []
+  },
+  {
+    "ingredient1": "grapefruit",
+    "ingredient2": "figs",
+    "count": 8,
+    "contexts": []
+  },
+  {
+    "ingredient1": "water",
+    "ingredient2": "boiling water",
+    "count": 6,
+    "contexts": []
+  },
+  {
+    "ingredient1": "egg",
+    "ingredient2": "strawberry",
+    "count": 6,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "pecans",
+    "ingredient2": "boiling water",
+    "count": 6,
+    "contexts": []
+  },
+  {
+    "ingredient1": "boiling water",
+    "ingredient2": "pecans",
+    "count": 6,
+    "contexts": []
+  },
+  {
+    "ingredient1": "boiling water",
+    "ingredient2": "water",
+    "count": 6,
+    "contexts": []
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "bread flour",
+    "count": 6,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "all-purpose flour",
+    "count": 6,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bread flour",
+    "ingredient2": "flour",
+    "count": 6,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "strawberry",
+    "ingredient2": "egg",
+    "count": 6,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "all-purpose flour",
+    "ingredient2": "flour",
+    "count": 6,
+    "contexts": []
+  },
+  {
+    "ingredient1": "fruit",
+    "ingredient2": "peaches in juice",
+    "count": 6,
+    "contexts": []
+  },
+  {
+    "ingredient1": "peaches in juice",
+    "ingredient2": "fruit",
+    "count": 6,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "butter flavor crisco",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "cocoa powder",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla",
+    "ingredient2": "9 inch pie shell",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla",
+    "ingredient2": "coconut",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "butter flavor crisco",
+    "ingredient2": "salt",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "butter flavor crisco",
+    "ingredient2": "bittersweet chocolate squares",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "butter flavor crisco",
+    "ingredient2": "cocoa powder",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bittersweet chocolate squares",
+    "ingredient2": "butter flavor crisco",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bittersweet chocolate squares",
+    "ingredient2": "cocoa powder",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cocoa powder",
+    "ingredient2": "butter flavor crisco",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cocoa powder",
+    "ingredient2": "salt",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cocoa powder",
+    "ingredient2": "bittersweet chocolate squares",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "eggs",
+    "ingredient2": "yeast",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "water",
+    "ingredient2": "active dry yeast",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "egg",
+    "ingredient2": "active dry yeast",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "peaches in juice",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "ground cardamom",
+    "count": 4,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "shortening",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "bisquick",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "ground cardamom",
+    "ingredient2": "flour",
+    "count": 4,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "active dry yeast",
+    "ingredient2": "egg",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "active dry yeast",
+    "ingredient2": "yeast",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "active dry yeast",
+    "ingredient2": "dry yeast",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "active dry yeast",
+    "ingredient2": "water",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "yeast",
+    "ingredient2": "active dry yeast",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "yeast",
+    "ingredient2": "eggs",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "dry yeast",
+    "ingredient2": "active dry yeast",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "shortening",
+    "ingredient2": "flour",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "peaches in juice",
+    "ingredient2": "baking powder",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bisquick",
+    "ingredient2": "flour",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "9 inch pie shell",
+    "ingredient2": "vanilla",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "9 inch pie shell",
+    "ingredient2": "unbaked 9-inch pie crust",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "unbaked 9-inch pie crust",
+    "ingredient2": "9 inch pie shell",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "unbaked 9-inch pie crust",
+    "ingredient2": "coconut",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "coconut",
+    "ingredient2": "vanilla",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "coconut",
+    "ingredient2": "unbaked 9-inch pie crust",
+    "count": 4,
+    "contexts": []
+  },
+  {
+    "ingredient1": "almond paste",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "almond paste",
+    "ingredient2": "chocolate",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "almond paste",
+    "ingredient2": "vanilla",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "almond paste",
+    "ingredient2": "unsweetened chocolate squares",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "almond paste",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "cake flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "vanilla",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "unsweetened chocolate squares",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "cinnamon",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "kosher salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "orange liqueur",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "cooking spray",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "cream cheese",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "chocolate",
+    "ingredient2": "almond paste",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "chocolate",
+    "ingredient2": "cake flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "chocolate",
+    "ingredient2": "vanilla",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "chocolate",
+    "ingredient2": "unsweetened chocolate squares",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cake flour",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cake flour",
+    "ingredient2": "chocolate",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cake flour",
+    "ingredient2": "vanilla",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cake flour",
+    "ingredient2": "unsweetened chocolate squares",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla",
+    "ingredient2": "almond paste",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla",
+    "ingredient2": "cake flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla",
+    "ingredient2": "chocolate",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla",
+    "ingredient2": "flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "unsweetened chocolate squares",
+    "ingredient2": "almond paste",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "unsweetened chocolate squares",
+    "ingredient2": "cake flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "unsweetened chocolate squares",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "unsweetened chocolate squares",
+    "ingredient2": "chocolate",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "butter flavor crisco",
+    "ingredient2": "cinnamon",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bittersweet chocolate squares",
+    "ingredient2": "cinnamon",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cinnamon",
+    "ingredient2": "butter flavor crisco",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cinnamon",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cinnamon",
+    "ingredient2": "bittersweet chocolate squares",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cinnamon",
+    "ingredient2": "chocolate chips",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cinnamon",
+    "ingredient2": "cream cheese",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "tomatoes",
+    "ingredient2": "eggs",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "tomatoes",
+    "ingredient2": "green onion top",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "eggs",
+    "ingredient2": "tomatoes",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "eggs",
+    "ingredient2": "bread",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "eggs",
+    "ingredient2": "buttermilk",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "eggs",
+    "ingredient2": "mashed potatoes",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "eggs",
+    "ingredient2": "cornmeal",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "green onion top",
+    "ingredient2": "tomatoes",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "green onion top",
+    "ingredient2": "bread",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "green onion top",
+    "ingredient2": "cheese",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "green onion top",
+    "ingredient2": "water",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "green onion top",
+    "ingredient2": "frozen southern style hash brown potatoes",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "green onion top",
+    "ingredient2": "fritos corn chips",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "green onion top",
+    "ingredient2": "half-and-half",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "bread",
+    "ingredient2": "eggs",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "bread",
+    "ingredient2": "green onion top",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "cheese",
+    "ingredient2": "green onion top",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "water",
+    "ingredient2": "green onion top",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "water",
+    "ingredient2": "vanilla bean",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "water",
+    "ingredient2": "milk",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "water",
+    "ingredient2": "flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla bean",
+    "ingredient2": "water",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "dutch-processed cocoa powder",
+    "ingredient2": "hot water",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "hot water",
+    "ingredient2": "dutch-processed cocoa powder",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "egg",
+    "ingredient2": "baking powder",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "egg",
+    "ingredient2": "nutmeg",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "egg",
+    "ingredient2": "sourdough starter",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "egg",
+    "ingredient2": "baking soda",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "egg",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "butter",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "bananas",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "baking soda",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "bisquick",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "nutmeg",
+    "ingredient2": "egg",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "nutmeg",
+    "ingredient2": "butter",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "nutmeg",
+    "ingredient2": "gorgonzola",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "nutmeg",
+    "ingredient2": "pepper",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "butter",
+    "ingredient2": "baking powder",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "butter",
+    "ingredient2": "nutmeg",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "butter",
+    "ingredient2": "frozen southern style hash brown potatoes",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "butter",
+    "ingredient2": "sourdough starter",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "butter",
+    "ingredient2": "baking soda",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "frozen southern style hash brown potatoes",
+    "ingredient2": "green onion top",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "frozen southern style hash brown potatoes",
+    "ingredient2": "butter",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "frozen southern style hash brown potatoes",
+    "ingredient2": "mayonnaise",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "frozen southern style hash brown potatoes",
+    "ingredient2": "dry mustard",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "cointreau liqueur",
+    "ingredient2": "kosher salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cointreau liqueur",
+    "ingredient2": "orange liqueur",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "kosher salt",
+    "ingredient2": "cointreau liqueur",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "kosher salt",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "orange liqueur",
+    "ingredient2": "cointreau liqueur",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "orange liqueur",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "lemon juice",
+    "ingredient2": "granola cereal",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "lemon juice",
+    "ingredient2": "apples",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "lemon juice",
+    "ingredient2": "cherry pie filling",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "lemon juice",
+    "ingredient2": "flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "granola cereal",
+    "ingredient2": "lemon juice",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "granola cereal",
+    "ingredient2": "cooking apples",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "apples",
+    "ingredient2": "lemon juice",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "apples",
+    "ingredient2": "cooking apples",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "cooking apples",
+    "ingredient2": "granola cereal",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "cooking apples",
+    "ingredient2": "apples",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "water",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "vanilla",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "fruit",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "lemon juice",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "ground cardamom",
+    "ingredient2": "shortening",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "ground cardamom",
+    "ingredient2": "all-purpose flour",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "bread flour",
+    "ingredient2": "shortening",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "bread flour",
+    "ingredient2": "all-purpose flour",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "bread flour",
+    "ingredient2": "milk",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bananas",
+    "ingredient2": "baking powder",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bananas",
+    "ingredient2": "vanilla wafers",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla wafers",
+    "ingredient2": "bananas",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "vanilla wafers",
+    "ingredient2": "baking soda",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking soda",
+    "ingredient2": "baking powder",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking soda",
+    "ingredient2": "vanilla wafers",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking soda",
+    "ingredient2": "egg",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "baking soda",
+    "ingredient2": "butter",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "ground cinnamon",
+    "ingredient2": "dried apricots",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "ground cinnamon",
+    "ingredient2": "pumpkin",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "dried apricots",
+    "ingredient2": "ground cinnamon",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "dried apricots",
+    "ingredient2": "dark rum",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "pumpkin",
+    "ingredient2": "ground cinnamon",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "pumpkin",
+    "ingredient2": "dark rum",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "dark rum",
+    "ingredient2": "dried apricots",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "dark rum",
+    "ingredient2": "pumpkin",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "sour cream",
+    "ingredient2": "mango",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "sour cream",
+    "ingredient2": "oil",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "sour cream",
+    "ingredient2": "chocolate chips",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "sour cream",
+    "ingredient2": "cream cheese",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "mango",
+    "ingredient2": "sour cream",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "mango",
+    "ingredient2": "banana",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "oil",
+    "ingredient2": "sour cream",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "oil",
+    "ingredient2": "banana",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "banana",
+    "ingredient2": "mango",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "banana",
+    "ingredient2": "oil",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "strawberry",
+    "ingredient2": "cornmeal",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "shortening",
+    "ingredient2": "ground cardamom",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "shortening",
+    "ingredient2": "bread flour",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "shortening",
+    "ingredient2": "buttermilk",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "shortening",
+    "ingredient2": "mashed potatoes",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "all-purpose flour",
+    "ingredient2": "ground cardamom",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "all-purpose flour",
+    "ingredient2": "bread flour",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "buttermilk",
+    "ingredient2": "shortening",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "buttermilk",
+    "ingredient2": "eggs",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "mashed potatoes",
+    "ingredient2": "shortening",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "mashed potatoes",
+    "ingredient2": "eggs",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "milk",
+    "ingredient2": "water",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "milk",
+    "ingredient2": "bread flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "milk",
+    "ingredient2": "gorgonzola",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "milk",
+    "ingredient2": "pepper",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "sourdough starter",
+    "ingredient2": "egg",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "sourdough starter",
+    "ingredient2": "butter",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "quick-cooking oats",
+    "ingredient2": "quick oats",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "quick oats",
+    "ingredient2": "quick-cooking oats",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "gorgonzola",
+    "ingredient2": "nutmeg",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "gorgonzola",
+    "ingredient2": "milk",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "pepper",
+    "ingredient2": "nutmeg",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "pepper",
+    "ingredient2": "milk",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "chocolate chips",
+    "ingredient2": "cinnamon",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "chocolate chips",
+    "ingredient2": "sour cream",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cream cheese",
+    "ingredient2": "cinnamon",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cream cheese",
+    "ingredient2": "sour cream",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cream cheese",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "fritos corn chips",
+    "ingredient2": "green onion top",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "half-and-half",
+    "ingredient2": "green onion top",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "mayonnaise",
+    "ingredient2": "frozen southern style hash brown potatoes",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "dry mustard",
+    "ingredient2": "frozen southern style hash brown potatoes",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "cooking spray",
+    "ingredient2": "salt",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cornmeal",
+    "ingredient2": "strawberry",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "cornmeal",
+    "ingredient2": "eggs",
+    "count": 2,
+    "contexts": [
+      "breakfast"
+    ]
+  },
+  {
+    "ingredient1": "fruit",
+    "ingredient2": "flour",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "peaches in juice",
+    "ingredient2": "bisquick",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bisquick",
+    "ingredient2": "peaches in juice",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "bisquick",
+    "ingredient2": "baking powder",
+    "count": 2,
+    "contexts": []
+  },
+  {
+    "ingredient1": "cherry pie filling",
+    "ingredient2": "lemon juice",
+    "count": 2,
+    "contexts": []
+  }
+]

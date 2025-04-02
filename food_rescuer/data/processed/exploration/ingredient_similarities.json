@@ -1,0 +1,194 @@
+[
+  {
+    "ingredient1": "cumin powder",
+    "ingredient2": "coriander powder",
+    "similarity": 0.4444444444444444,
+    "co_occurrences": 8
+  },
+  {
+    "ingredient1": "coriander powder",
+    "ingredient2": "cumin powder",
+    "similarity": 0.4444444444444444,
+    "co_occurrences": 8
+  },
+  {
+    "ingredient1": "turmeric powder",
+    "ingredient2": "coriander powder",
+    "similarity": 0.3157894736842105,
+    "co_occurrences": 6
+  },
+  {
+    "ingredient1": "coriander powder",
+    "ingredient2": "turmeric powder",
+    "similarity": 0.3157894736842105,
+    "co_occurrences": 6
+  },
+  {
+    "ingredient1": "cumin powder",
+    "ingredient2": "turmeric powder",
+    "similarity": 0.25,
+    "co_occurrences": 5
+  },
+  {
+    "ingredient1": "turmeric powder",
+    "ingredient2": "cumin powder",
+    "similarity": 0.25,
+    "co_occurrences": 5
+  },
+  {
+    "ingredient1": "bread flour",
+    "ingredient2": "yeast",
+    "similarity": 0.24,
+    "co_occurrences": 12
+  },
+  {
+    "ingredient1": "yeast",
+    "ingredient2": "bread flour",
+    "similarity": 0.24,
+    "co_occurrences": 12
+  },
+  {
+    "ingredient1": "coriander powder",
+    "ingredient2": "coriander leaves",
+    "similarity": 0.23809523809523808,
+    "co_occurrences": 5
+  },
+  {
+    "ingredient1": "coriander leaves",
+    "ingredient2": "coriander powder",
+    "similarity": 0.23809523809523808,
+    "co_occurrences": 5
+  },
+  {
+    "ingredient1": "baking soda",
+    "ingredient2": "baking powder",
+    "similarity": 0.23674242424242425,
+    "co_occurrences": 125
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "baking soda",
+    "similarity": 0.23674242424242425,
+    "co_occurrences": 125
+  },
+  {
+    "ingredient1": "active dry yeast",
+    "ingredient2": "bread flour",
+    "similarity": 0.23214285714285715,
+    "co_occurrences": 13
+  },
+  {
+    "ingredient1": "bread flour",
+    "ingredient2": "active dry yeast",
+    "similarity": 0.23214285714285715,
+    "co_occurrences": 13
+  },
+  {
+    "ingredient1": "active dry yeast",
+    "ingredient2": "warm water",
+    "similarity": 0.22950819672131148,
+    "co_occurrences": 14
+  },
+  {
+    "ingredient1": "warm water",
+    "ingredient2": "active dry yeast",
+    "similarity": 0.22950819672131148,
+    "co_occurrences": 14
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "butter",
+    "similarity": 0.2217339192968438,
+    "co_occurrences": 555
+  },
+  {
+    "ingredient1": "butter",
+    "ingredient2": "salt",
+    "similarity": 0.2217339192968438,
+    "co_occurrences": 555
+  },
+  {
+    "ingredient1": "sugar",
+    "ingredient2": "salt",
+    "similarity": 0.21893744644387317,
+    "co_occurrences": 511
+  },
+  {
+    "ingredient1": "salt",
+    "ingredient2": "sugar",
+    "similarity": 0.21893744644387317,
+    "co_occurrences": 511
+  },
+  {
+    "ingredient1": "butter",
+    "ingredient2": "flour",
+    "similarity": 0.21216216216216216,
+    "co_occurrences": 314
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "butter",
+    "similarity": 0.21216216216216216,
+    "co_occurrences": 314
+  },
+  {
+    "ingredient1": "dried basil",
+    "ingredient2": "dried oregano",
+    "similarity": 0.21052631578947367,
+    "co_occurrences": 32
+  },
+  {
+    "ingredient1": "dried marjoram",
+    "ingredient2": "dried sage",
+    "similarity": 0.21052631578947367,
+    "co_occurrences": 4
+  },
+  {
+    "ingredient1": "dried sage",
+    "ingredient2": "dried marjoram",
+    "similarity": 0.21052631578947367,
+    "co_occurrences": 4
+  },
+  {
+    "ingredient1": "dried oregano",
+    "ingredient2": "dried basil",
+    "similarity": 0.21052631578947367,
+    "co_occurrences": 32
+  },
+  {
+    "ingredient1": "all-purpose flour",
+    "ingredient2": "baking powder",
+    "similarity": 0.20973154362416108,
+    "co_occurrences": 125
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "all-purpose flour",
+    "similarity": 0.20973154362416108,
+    "co_occurrences": 125
+  },
+  {
+    "ingredient1": "ground cumin",
+    "ingredient2": "ground coriander",
+    "similarity": 0.20253164556962025,
+    "co_occurrences": 32
+  },
+  {
+    "ingredient1": "ground coriander",
+    "ingredient2": "ground cumin",
+    "similarity": 0.20253164556962025,
+    "co_occurrences": 32
+  },
+  {
+    "ingredient1": "flour",
+    "ingredient2": "baking powder",
+    "similarity": 0.20231958762886598,
+    "co_occurrences": 157
+  },
+  {
+    "ingredient1": "baking powder",
+    "ingredient2": "flour",
+    "similarity": 0.20231958762886598,
+    "co_occurrences": 157
+  }
+]

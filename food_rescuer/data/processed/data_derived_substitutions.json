@@ -1,0 +1,1930 @@
+{
+  "eggs": [
+    {
+      "substitute": "egg",
+      "ratio": 1.0,
+      "confidence": 1.0,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 10 similar recipes for breakfast"
+    },
+    {
+      "substitute": "yeast",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "tomatoes",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "bread",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "buttermilk",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "mashed potatoes",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cornmeal",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "egg": [
+    {
+      "substitute": "eggs",
+      "ratio": 1.0,
+      "confidence": 1.0,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 10 similar recipes for breakfast"
+    },
+    {
+      "substitute": "strawberry",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 6 similar recipes for breakfast"
+    },
+    {
+      "substitute": "active dry yeast",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "baking powder",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "nutmeg",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "sourdough starter",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "baking soda",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "figs": [
+    {
+      "substitute": "orange",
+      "ratio": 1.0,
+      "confidence": 0.8,
+      "contexts": [],
+      "notes": "Found in 8 similar recipes"
+    },
+    {
+      "substitute": "grapefruit",
+      "ratio": 1.0,
+      "confidence": 0.8,
+      "contexts": [],
+      "notes": "Found in 8 similar recipes"
+    }
+  ],
+  "orange": [
+    {
+      "substitute": "figs",
+      "ratio": 1.0,
+      "confidence": 0.8,
+      "contexts": [],
+      "notes": "Found in 8 similar recipes"
+    }
+  ],
+  "grapefruit": [
+    {
+      "substitute": "figs",
+      "ratio": 1.0,
+      "confidence": 0.8,
+      "contexts": [],
+      "notes": "Found in 8 similar recipes"
+    }
+  ],
+  "water": [
+    {
+      "substitute": "boiling water",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [],
+      "notes": "Found in 6 similar recipes"
+    },
+    {
+      "substitute": "active dry yeast",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "green onion top",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "vanilla bean",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "milk",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "pecans": [
+    {
+      "substitute": "boiling water",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [],
+      "notes": "Found in 6 similar recipes"
+    }
+  ],
+  "boiling water": [
+    {
+      "substitute": "pecans",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [],
+      "notes": "Found in 6 similar recipes"
+    },
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [],
+      "notes": "Found in 6 similar recipes"
+    }
+  ],
+  "flour": [
+    {
+      "substitute": "bread flour",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 6 similar recipes for breakfast"
+    },
+    {
+      "substitute": "all-purpose flour",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [],
+      "notes": "Found in 6 similar recipes"
+    },
+    {
+      "substitute": "ground cardamom",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 4 similar recipes for breakfast"
+    },
+    {
+      "substitute": "shortening",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "bisquick",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "vanilla",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "fruit",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "lemon juice",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "bread flour": [
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 6 similar recipes for breakfast"
+    },
+    {
+      "substitute": "shortening",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "all-purpose flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "milk",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "strawberry": [
+    {
+      "substitute": "egg",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 6 similar recipes for breakfast"
+    },
+    {
+      "substitute": "cornmeal",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "all-purpose flour": [
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [],
+      "notes": "Found in 6 similar recipes"
+    },
+    {
+      "substitute": "ground cardamom",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "bread flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "fruit": [
+    {
+      "substitute": "peaches in juice",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [],
+      "notes": "Found in 6 similar recipes"
+    },
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "peaches in juice": [
+    {
+      "substitute": "fruit",
+      "ratio": 1.0,
+      "confidence": 0.6,
+      "contexts": [],
+      "notes": "Found in 6 similar recipes"
+    },
+    {
+      "substitute": "baking powder",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "bisquick",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "salt": [
+    {
+      "substitute": "butter flavor crisco",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "cocoa powder",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "almond paste",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cake flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "vanilla",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "unsweetened chocolate squares",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cinnamon",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "kosher salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "orange liqueur",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cooking spray",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cream cheese",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "vanilla": [
+    {
+      "substitute": "9 inch pie shell",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "coconut",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "almond paste",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cake flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "chocolate",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "butter flavor crisco": [
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "bittersweet chocolate squares",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "cocoa powder",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "cinnamon",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "bittersweet chocolate squares": [
+    {
+      "substitute": "butter flavor crisco",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "cocoa powder",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "cinnamon",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "cocoa powder": [
+    {
+      "substitute": "butter flavor crisco",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "bittersweet chocolate squares",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    }
+  ],
+  "baking powder": [
+    {
+      "substitute": "peaches in juice",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "egg",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "butter",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "bananas",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "baking soda",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "bisquick",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "ground cardamom": [
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 4 similar recipes for breakfast"
+    },
+    {
+      "substitute": "shortening",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "all-purpose flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "active dry yeast": [
+    {
+      "substitute": "egg",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "yeast",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "dry yeast",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    }
+  ],
+  "yeast": [
+    {
+      "substitute": "active dry yeast",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "eggs",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    }
+  ],
+  "dry yeast": [
+    {
+      "substitute": "active dry yeast",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    }
+  ],
+  "shortening": [
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "ground cardamom",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "bread flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "buttermilk",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "mashed potatoes",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "bisquick": [
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "peaches in juice",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "baking powder",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "9 inch pie shell": [
+    {
+      "substitute": "vanilla",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "unbaked 9-inch pie crust",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    }
+  ],
+  "unbaked 9-inch pie crust": [
+    {
+      "substitute": "9 inch pie shell",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "coconut",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    }
+  ],
+  "coconut": [
+    {
+      "substitute": "vanilla",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    },
+    {
+      "substitute": "unbaked 9-inch pie crust",
+      "ratio": 1.0,
+      "confidence": 0.4,
+      "contexts": [],
+      "notes": "Found in 4 similar recipes"
+    }
+  ],
+  "almond paste": [
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "chocolate",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "vanilla",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "unsweetened chocolate squares",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "chocolate": [
+    {
+      "substitute": "almond paste",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cake flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "vanilla",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "unsweetened chocolate squares",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "cake flour": [
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "chocolate",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "vanilla",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "unsweetened chocolate squares",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "unsweetened chocolate squares": [
+    {
+      "substitute": "almond paste",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cake flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "chocolate",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "cinnamon": [
+    {
+      "substitute": "butter flavor crisco",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "bittersweet chocolate squares",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "chocolate chips",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cream cheese",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "tomatoes": [
+    {
+      "substitute": "eggs",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "green onion top",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "green onion top": [
+    {
+      "substitute": "tomatoes",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "bread",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "cheese",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "frozen southern style hash brown potatoes",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "fritos corn chips",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "half-and-half",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "bread": [
+    {
+      "substitute": "eggs",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "green onion top",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "cheese": [
+    {
+      "substitute": "green onion top",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "vanilla bean": [
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "dutch-processed cocoa powder": [
+    {
+      "substitute": "hot water",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "hot water": [
+    {
+      "substitute": "dutch-processed cocoa powder",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "nutmeg": [
+    {
+      "substitute": "egg",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "butter",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "gorgonzola",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "pepper",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "butter": [
+    {
+      "substitute": "baking powder",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "nutmeg",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "frozen southern style hash brown potatoes",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "sourdough starter",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "baking soda",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "frozen southern style hash brown potatoes": [
+    {
+      "substitute": "green onion top",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "butter",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "mayonnaise",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "dry mustard",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "cointreau liqueur": [
+    {
+      "substitute": "kosher salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "orange liqueur",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "kosher salt": [
+    {
+      "substitute": "cointreau liqueur",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "orange liqueur": [
+    {
+      "substitute": "cointreau liqueur",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "lemon juice": [
+    {
+      "substitute": "granola cereal",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "apples",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "cherry pie filling",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "granola cereal": [
+    {
+      "substitute": "lemon juice",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "cooking apples",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "apples": [
+    {
+      "substitute": "lemon juice",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "cooking apples",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "cooking apples": [
+    {
+      "substitute": "granola cereal",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "apples",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "bananas": [
+    {
+      "substitute": "baking powder",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "vanilla wafers",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "vanilla wafers": [
+    {
+      "substitute": "bananas",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "baking soda",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "baking soda": [
+    {
+      "substitute": "baking powder",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "vanilla wafers",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "egg",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "butter",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "ground cinnamon": [
+    {
+      "substitute": "dried apricots",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "pumpkin",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "dried apricots": [
+    {
+      "substitute": "ground cinnamon",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "dark rum",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "pumpkin": [
+    {
+      "substitute": "ground cinnamon",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "dark rum",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "dark rum": [
+    {
+      "substitute": "dried apricots",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "pumpkin",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "sour cream": [
+    {
+      "substitute": "mango",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "oil",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "chocolate chips",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "cream cheese",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "mango": [
+    {
+      "substitute": "sour cream",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "banana",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "oil": [
+    {
+      "substitute": "sour cream",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "banana",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "banana": [
+    {
+      "substitute": "mango",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "oil",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "buttermilk": [
+    {
+      "substitute": "shortening",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "eggs",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "mashed potatoes": [
+    {
+      "substitute": "shortening",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "eggs",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "milk": [
+    {
+      "substitute": "water",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "bread flour",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "gorgonzola",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "pepper",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "sourdough starter": [
+    {
+      "substitute": "egg",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "butter",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "quick-cooking oats": [
+    {
+      "substitute": "quick oats",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "quick oats": [
+    {
+      "substitute": "quick-cooking oats",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "gorgonzola": [
+    {
+      "substitute": "nutmeg",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "milk",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "pepper": [
+    {
+      "substitute": "nutmeg",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "milk",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "chocolate chips": [
+    {
+      "substitute": "cinnamon",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "sour cream",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "cream cheese": [
+    {
+      "substitute": "cinnamon",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "sour cream",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    },
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "fritos corn chips": [
+    {
+      "substitute": "green onion top",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "half-and-half": [
+    {
+      "substitute": "green onion top",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "mayonnaise": [
+    {
+      "substitute": "frozen southern style hash brown potatoes",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "dry mustard": [
+    {
+      "substitute": "frozen southern style hash brown potatoes",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "cooking spray": [
+    {
+      "substitute": "salt",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "cornmeal": [
+    {
+      "substitute": "strawberry",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    },
+    {
+      "substitute": "eggs",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [
+        "breakfast"
+      ],
+      "notes": "Found in 2 similar recipes for breakfast"
+    }
+  ],
+  "cherry pie filling": [
+    {
+      "substitute": "lemon juice",
+      "ratio": 1.0,
+      "confidence": 0.2,
+      "contexts": [],
+      "notes": "Found in 2 similar recipes"
+    }
+  ],
+  "cumin powder": [
+    {
+      "substitute": "coriander powder",
+      "ratio": 1.0,
+      "confidence": 0.4444444444444444,
+      "similarity": 0.4444444444444444,
+      "co_occurrences": 8,
+      "notes": "Similarity score: 0.44, co-occurrences: 8"
+    },
+    {
+      "substitute": "turmeric powder",
+      "ratio": 1.0,
+      "confidence": 0.25,
+      "similarity": 0.25,
+      "co_occurrences": 5,
+      "notes": "Similarity score: 0.25, co-occurrences: 5"
+    }
+  ],
+  "coriander powder": [
+    {
+      "substitute": "cumin powder",
+      "ratio": 1.0,
+      "confidence": 0.4444444444444444,
+      "similarity": 0.4444444444444444,
+      "co_occurrences": 8,
+      "notes": "Similarity score: 0.44, co-occurrences: 8"
+    },
+    {
+      "substitute": "turmeric powder",
+      "ratio": 1.0,
+      "confidence": 0.3157894736842105,
+      "similarity": 0.3157894736842105,
+      "co_occurrences": 6,
+      "notes": "Similarity score: 0.32, co-occurrences: 6"
+    }
+  ],
+  "turmeric powder": [
+    {
+      "substitute": "coriander powder",
+      "ratio": 1.0,
+      "confidence": 0.3157894736842105,
+      "similarity": 0.3157894736842105,
+      "co_occurrences": 6,
+      "notes": "Similarity score: 0.32, co-occurrences: 6"
+    },
+    {
+      "substitute": "cumin powder",
+      "ratio": 1.0,
+      "confidence": 0.25,
+      "similarity": 0.25,
+      "co_occurrences": 5,
+      "notes": "Similarity score: 0.25, co-occurrences: 5"
+    }
+  ]
+}
